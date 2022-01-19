@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## The name is Rudy Rachman, I'm from Samarinda, Kalimantan Timur, Indonesia
 Right now I'm still a student in Mulawarman University, and interesting at learning in
-1. Artificial Intelligence, 
-2. Mobile Development, and
-3. Website
+1. Mobile Development, 
+2. Artificial Intelligence (such as Machine Learning or Deep Learning), and
+3. Website programming
 
 
 <br>
