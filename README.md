@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 #### Samarinda, Kalimantan Timur, Indonesia
 
 
-Right now Bachelor of Informatics, and interesting at learning in
-1. Mobile Development mainly focusing to Native Android (Certified as <a href="https://www.credential.net/c5c890e9-5bd2-4223-9614-c28be2f255de">Associate Android Developer</a>), 
+My current study is a Master of Informatics Engineering from the Institute Sepuluh Nopember, Surabaya
+
+My current learning interests are:
+1. Mobile Development mainly focusing on Jetpack Compose and Flutter
 2. Artificial Intelligence (such as Deep Learning), and
 3. Desktop and Website Programming
 
